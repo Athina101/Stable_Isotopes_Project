@@ -1,2 +1,9 @@
 # Stable_Isotopes_Project
-Quantification of stable carbon and oxygen isotopic fractionation of CO2 during photosynthesis and respiration
+
+**Title:** Quantification of stable carbon and oxygen isotopic fractionation of CO2 during photosynthesis and respiration
+
+**Abstract:**
+<p align="justify">
+In this project, the diurnal pattern of CO2 concentration and its isotopic compositions δ18O and δ13C were studied during a week in October 2021. The measurements were taken in the botanical gardens in Utrecht Science Park by using a high temporal resolution (10Hz) laser trace gas monitor. The isotopic compositions
+were calibrated and the whole data was 10 seconds averaged before the analysis. The analysis focused on two different events when the CO2 concentration significantly changes, one during the working week and the other during the weekend. The isotopic signatures during the increase and decrease of CO2 of the two events were found by using the Keeling approach. For δ13C, it is found that only one process took place each time, photosynthesis during the day and respiration during the night with the same δ13C isotopic signature. In addition, based on literature, for both events, these values fall into the range of the δ13C isotopic signature of C3 type plant respiration. However, for δ18O, it is found that an average of more than one source and/or sink affected the results each time period. Therefore, the Keeling method did not work for this isotope and the identification of these processes was not straightforward. Finally, meteorological variables were used for correlation analysis to further study the variation of CO2 concentration that is observed during the time period. The largest correlation is found between CO2 concentration and the wind speed during the weekend. As a result, the most likely explanation for the large values of CO2 concentration and the δ18O values during the weekend is the transfer of an air plume with different characteristics coming from a different ecosystem such as Utrecht city.
+</p>
